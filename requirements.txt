@@ -1,3 +1,4 @@
 python -m venv venv
 venv\Scripts\activate
 pip install Flask Flask-Cors
+pip install --upgrade pip
